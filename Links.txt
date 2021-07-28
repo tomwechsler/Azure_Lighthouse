@@ -1,0 +1,11 @@
+Azure Lighthouse architecture
+https://docs.microsoft.com/en-us/azure/lighthouse/concepts/architecture
+
+Cross-tenant management experiences
+https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cross-tenant-management-experience
+
+Tenants, users, and roles in Azure Lighthouse scenarios
+https://docs.microsoft.com/en-us/azure/lighthouse/concepts/tenants-users-roles
+
+Onboard a customer to Azure Lighthouse
+https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer
