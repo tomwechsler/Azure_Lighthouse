@@ -9,3 +9,6 @@ https://docs.microsoft.com/en-us/azure/lighthouse/concepts/tenants-users-roles
 
 Onboard a customer to Azure Lighthouse
 https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer
+
+Publish a Managed Service offer to Azure Marketplace
+https://docs.microsoft.com/en-us/azure/lighthouse/how-to/publish-managed-services-offers
