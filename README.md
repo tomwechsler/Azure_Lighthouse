@@ -1,1 +1,1 @@
-Azure_Lighthouse - All about Azure Lighthouse
+Azure Lighthouse - All about Azure Lighthouse
